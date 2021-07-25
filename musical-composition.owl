@@ -6,8 +6,8 @@
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://w3id.org/polifonia/ON/musical-composition">
-        <owl:versionIRI rdf:resource="http://w3id.org/polifonia/ON/musical-composition/0.0.1"/>
+    <owl:Ontology rdf:about="https://w3id.org/polifonia/ON/musical-composition">
+        <owl:versionIRI rdf:resource="https://w3id.org/polifonia/ON/musical-composition/0.0.1"/>
         <rdfs:comment xml:lang="en">This is the ontology Musical Composition of the Polifonia ontology network.</rdfs:comment>
         <rdfs:label xml:lang="en">Musical Composition ontology (Polifonia ontology network)</rdfs:label>
     </owl:Ontology>
@@ -25,9 +25,9 @@
     
 
 
-    <!-- http://w3id.org/polifonia/ON/musical-composition/MusicalComposition -->
+    <!-- https://w3id.org/polifonia/ON/musical-composition/MusicalComposition -->
 
-    <owl:Class rdf:about="http://w3id.org/polifonia/ON/musical-composition/MusicalComposition">
+    <owl:Class rdf:about="https://w3id.org/polifonia/ON/musical-composition/MusicalComposition">
         <rdfs:label xml:lang="en">Musical composition</rdfs:label>
     </owl:Class>
 </rdf:RDF>
