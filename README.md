@@ -1,5 +1,5 @@
 # Musical Composition
-The Musical Composition ontology module models concepts and relationships for representing musical compositions. 
+The Musical Composition ontology module of the [Polifonia ontology network](https://github.com/polifonia-project/ON) models concepts and relationships for representing musical compositions. 
 
 ## Competency questions addressed by this ontology module 
 
