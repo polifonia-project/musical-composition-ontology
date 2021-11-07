@@ -12,3 +12,5 @@ The Musical Composition ontology module of the [Polifonia ontology network](http
   - Which performers (musicians, singers) have performed a musical composition for the first time?
 
 ## Imported ontology modules
+
+<img width="999" alt="musical-composition" src="https://user-images.githubusercontent.com/44606644/140661871-948fa087-7cc7-4f43-a256-de9e7e856ccc.png">
